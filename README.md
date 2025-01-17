@@ -2,6 +2,15 @@
 ![Kdove](https://www.hackthebox.com/badge/image/1377596)
 
 ![kdove](https://tryhackme-badges.s3.amazonaws.com/kdove.png)
+## 🚩CTF Participation Reports
+- [National Cyber League Fall 2023](https://cyberskyline.com/report/YWX051V8AED7 )
+- [National Cyber League Spring 2024](http://cyberskyline.com/report/NLKARH35B1H1)
+- [National Cyber League Fall 2024](cyberskyline.com/report/FT3XER73D88A)
+- [US Cyber Games Combine and Pipeline Acceptance](https://www.uscybergames.com/us-cyber-team)
+  
+## 📜Other Certificates
+- [Defender 302](https://www.credential.net/6355f72b-5a6c-43b8-81d5-c640a58a4474)
+
 ## 🌐Website Repos:
 - [Main Page For Website](https://github.com/Kd0ve/kd0ve.github.io)
 - [Blog For Website](https://github.com/Kd0ve/blog)
