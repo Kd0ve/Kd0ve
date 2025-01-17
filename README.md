@@ -1,7 +1,7 @@
 # Hello, welcome to Kat's github!
-![kdove](https://tryhackme-badges.s3.amazonaws.com/kdove.png)
-
 ![Kdove](https://www.hackthebox.com/badge/image/1377596)
+
+![kdove](https://tryhackme-badges.s3.amazonaws.com/kdove.png)
 ## 🌐Website Repos:
 - [Main Page For Website](https://github.com/Kd0ve/kd0ve.github.io)
 - [Blog For Website](https://github.com/Kd0ve/blog)
