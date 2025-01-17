@@ -14,8 +14,8 @@
 - [Secure File Storage Writeup](https://www.kdove.moe/blog/p/secure-file-storage/)
 
 ## Connect With Me!
-[<img align="left" alt="Kdove | LinkedIn" width="22px" src=""> ][twitter]
-[<img align="left" alt="Kdove | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kdove | LinkedIn" width="30px" src="twitter.png"  />][twitter]
+[<img align="left" alt="Kdove | LinkedIn" width="30px" src="linkedin.png" />][linkedin]
 
 [twitter]: https://x.com/kat_ish_
 [linkedin]: https://www.linkedin.com/in/katrina-dube-386ba41a8/
