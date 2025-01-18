@@ -5,6 +5,9 @@
 ![kdove](https://tryhackme-badges.s3.amazonaws.com/kdove.png)
 
 ### [Main Website](https://kdove.moe)
+## 🤖Cybersecurity Projects
+- [Attacking Active Directory Using responder and ntlmrelayx](https://www.kdove.moe/blog/p/attacking-active-directory-with-responder-and-ntlmrelayx/)
+
 ## 🚩CTF Participation Reports
 - [National Cyber League Fall 2023](https://cyberskyline.com/report/YWX051V8AED7 )
 - [National Cyber League Spring 2024](http://cyberskyline.com/report/NLKARH35B1H1)
