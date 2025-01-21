@@ -6,8 +6,9 @@
 
 ### [Main Website](https://kdove.moe)
 ## 🤖Cybersecurity Projects
-- [Attacking Active Directory Using responder and ntlmrelayx](https://www.kdove.moe/blog/p/attacking-active-directory-with-responder-and-ntlmrelayx/)
+- [Active Directory Part 2 - Exploring GOAD Environment](https://www.kdove.moe/blog/p/active-directory-part-2-exploring-goad-environment/)
 - [Setting Up GOAD On Windows](https://www.kdove.moe/blog/p/setting-up-goad-on-windows/)
+- [Attacking Active Directory Using Responder and NTLMrelayX](https://www.kdove.moe/blog/p/attacking-active-directory-with-responder-and-ntlmrelayx/)
 
 ## 🚩CTF Participation Reports
 - [National Cyber League Fall 2023](https://cyberskyline.com/report/YWX051V8AED7 )
