@@ -22,6 +22,7 @@
 ## 🌐Website Repos:
 - [Main Page For Website](https://github.com/Kd0ve/kd0ve.github.io)
 - [Blog For Website](https://github.com/Kd0ve/blog)
+- [The Odin Project](https://github.com/Kd0ve/OdinProjects)
 - [NekoWeb Website Made With Eleventy](https://github.com/Kd0ve/kdove)
 
 ## 👩‍💻Writeups:
