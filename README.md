@@ -1,6 +1,5 @@
-# Hello, welcome to Kat's github!
+# Hello, welcome to my github!
 
-### [Main Website](https://kdove.moe)
 ## 🤖Cybersecurity Projects
 - [Active Directory Part 2 - Exploring GOAD Environment](https://www.kdove.moe/blog/p/active-directory-part-2-exploring-goad-environment/)
 - [Setting Up GOAD On Windows](https://www.kdove.moe/blog/p/setting-up-goad-on-windows/)
